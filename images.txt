@@ -15,4 +15,5 @@
 neo4j:5.26.0-community-bullseye
 redis
 emby/embyserver_arm64v8
+comassky/roon
 
