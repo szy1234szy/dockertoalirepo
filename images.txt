@@ -20,4 +20,5 @@
 #maven
 #zookeeper
 #dockette/jdk8
-bingozhou/mysql5.7
+#bingozhou/mysql5.7
+damonevking/redis5.0
