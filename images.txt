@@ -21,4 +21,5 @@
 #zookeeper
 #dockette/jdk8
 #bingozhou/mysql5.7
-damonevking/redis5.0
+#damonevking/redis5.0
+nacos/nacos-server:1.4.1
