@@ -19,4 +19,5 @@
 #apache/beam_java8_sdk:2.63.0rc2
 #maven
 #zookeeper
-dockette/jdk8
+#dockette/jdk8
+bingozhou/mysql5.7
